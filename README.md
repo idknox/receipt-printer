@@ -42,4 +42,3 @@ Output 3:
 1 imported box of chocolates: 11.85
 Sales Taxes: 6.70
 Total: 74.68
-==========
